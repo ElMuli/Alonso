@@ -7,7 +7,6 @@ Soy Ingeniero Informático con Título propio de Ciberseguridad y Hacking Ético
 [![Java](https://img.shields.io/badge/Java_8,_11,_11-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)]()
 [![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&labelColor=101010)]()
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&labelColor=101010)]()
